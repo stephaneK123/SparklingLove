@@ -1,5 +1,3 @@
-# SparklingLove
-Android app verifying online accounts 
 # Project Title
 
 Simple overview of use/purpose.
